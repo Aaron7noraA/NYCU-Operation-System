@@ -17,9 +17,9 @@ the output of the compile file will be in the directory **[output](https://githu
 
 the input file are in **[Test cases](https://github.com/Aaron7noraA/NYCU-Operation-System/tree/main/LAB2/Test%20cases)**<br>
 **Q1 ~ Q4 is the input file of HW2-1 ~ HW2-4**<br>
-**A1 ~ A4 is the correct answer of HW2-1 ~ HW2-4**
+**A1 ~ A4 is the correct answer of HW2-1 ~ HW2-4**<br>
 /
-/
+/<br>
 **compile example**
 ```c=0
 g++ -o HW2-1 FCFS.cpp
