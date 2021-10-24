@@ -30,7 +30,7 @@ after you compile => execute the file(HW2-1),<br>input the input file from [Test
 
 **execute example**
 ```c=0
-./HW2-1 HW2-1 Test cases/Q1.txt
+./HW2-1 Test cases/Q1.txt
 ```
 
 and the final result would be in **[output](https://github.com/Aaron7noraA/NYCU-Operation-System/tree/main/LAB2/output)**
