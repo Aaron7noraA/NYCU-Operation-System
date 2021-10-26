@@ -33,4 +33,12 @@ after you compile => execute the file(HW2-1),<br>input the input file from [Test
 ./HW2-1 Test cases/Q1.txt
 ```
 
-and the final result would be in **[output](https://github.com/Aaron7noraA/NYCU-Operation-System/tree/main/LAB2/output)**
+and the final result would be in **[output](https://github.com/Aaron7noraA/NYCU-Operation-System/tree/main/LAB2/output)**<br>
+
+in compress file there is another compile format<br>
+**For example:**<br>
+compile hw2-1 input Q1.txt output as myA1.txt
+```c = 0
+g++ -o hw2-1 hw2-1.cpp
+./hw2-1 < Q1.txt > myA1.txt
+```
